@@ -1,6 +1,6 @@
 [submodule "unix_utilities"]
 	path = unix_utilities
-	url = ./unix_utilities/
+	url = https://github.com/w3bsurf/unix_utilities
 [submodule "unix_shell"]
 	path = unix_shell
-	url = ./unix_shell/
+	url = https://github.com/w3bsurf/unix_shell
