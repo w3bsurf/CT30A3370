@@ -1,0 +1,6 @@
+[submodule "unix_utilities"]
+	path = unix_utilities
+	url = ./unix_utilities/
+[submodule "unix_shell"]
+	path = unix_shell
+	url = ./unix_shell/
